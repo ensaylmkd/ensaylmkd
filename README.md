@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ensaylmkd
-- 👀 I’m interested in learning programation
+- 👀 I’m interested in learning programmation
 - 🌱 I’m currently learning C
 
 <!---
